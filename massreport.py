@@ -3,6 +3,7 @@ import threading
 import time
 import requests
 
+
 class Main:
     def __init__(self):
         self.GUILD_ID = input('[>] Guild ID: ')
